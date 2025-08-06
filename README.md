@@ -67,6 +67,6 @@ Este repositório está licenciado sob a Licença MIT. Consulte o arquivo LICENS
 ---
 
 ## 🌟 Autor
-**Nome do Aluno**  
+Douglas Castilho  
 Curso de Tecnologia da Informação  
-Este repositório faz parte das atividades práticas do curso.
+Este repositório faz parte das atividades práticas do curso Cloud com IA da DIO.
